@@ -7,7 +7,7 @@ Skills: C# (.NET) / Blazor / WindowsAppSDK (WinUI 3) / JS / TS / Python / Java /
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&theme=transparent)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulober&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Github Profile Trophy
 
