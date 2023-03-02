@@ -28,14 +28,18 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
-
-- 🔭 I’m currently working on Pico-W-Go, picoserialcom and Arctic Control 
+<ul>
+  <li><img width="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/> Balzor</li>
+  <li>Windows App SDK (WinUI 3)</li>
+</ul>
 
 ---
 
-<div align="center">
+- 🔭 I’m currently working on Pico-W-Go, picoserialcom and Arctic Control 
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&count_private=true&theme=transparent&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulober&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulober&layout=compact&theme=transparent&hide_border=true"/>
  </div>
 
 ### 🏆 Github Profile Trophy
@@ -48,8 +52,10 @@
 
 ----
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<p align="left"> <a href="https://discord.com/users/paulober#5008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/paulober" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://paulober.dev)
+<p align="left">
+  <a href="https://discord.com/users/paulober#5008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a> <a href="https://www.github.com/paulober" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
+  <a href="https://paulober.dev" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+</p>
+
 
 
