@@ -29,7 +29,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 <ul>
-  <li><img width="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/> Balzor</li>
+  <li><img width="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/> Balzor <p><a href="https://commons.wikimedia.org/wiki/File:Blazor.png">dotnet</a>, CC0, via Wikimedia Commons</p></li>
   <li>Windows App SDK (WinUI 3)</li>
 </ul>
 
