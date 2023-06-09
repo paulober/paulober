@@ -38,7 +38,7 @@
 
 ---
 
-- 🔭 I’m currently working on Pico-W-Go, picoserialcom and Arctic Control 
+- 🔭 I’m currently working on Pico-W-Go, pyboard-serial-com and Arctic Control 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&count_private=true&theme=transparent&hide_border=true"/>
