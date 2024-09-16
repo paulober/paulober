@@ -40,7 +40,7 @@
 
 ---
 
-- 🔭 I’m currently working on MicroPico (aka Pico-W-Go), @raspberrypi/pico-vsocde, pyboard-serial-com, Arctic Control and some currently private projects
+- 🔭 I’m currently working on MicroPico (aka Pico-W-Go), @raspberrypi/pico-vsocde, pico-mpy-com, Arctic Control, a linux kernel module and some currently private projects
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&count_private=true&theme=transparent&hide_border=true"/>
