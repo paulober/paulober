@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Paul
 #### I am a passionate software developer.
 
-- 🔭 I’m currently working on MicroPico (aka Pico-W-Go), @raspberrypi/pico-vsocde, pico-mpy-com, Arctic Control and some currently private projects
+- 🔭 I’m currently working on MicroPico (aka Pico-W-Go), @raspberrypi/pico-vsocde, @raspberrypi/rpi-imager, @RPi-Distro/pi-gen, pico-mpy-com, Arctic Control and some currently private projects
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=paulober&show_icons=true&count_private=true&theme=transparent&hide_border=true"/>
